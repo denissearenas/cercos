@@ -2,6 +2,7 @@
 <html>
 <head>
     <link href="css/app.css" rel="stylesheet">
+    <script src="js/app.js"></script>
     <title>@yield('title')</title>
 </head>
 <body>
