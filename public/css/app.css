@@ -10000,6 +10000,18 @@ a.text-dark:focus {
           box-shadow: 0 2px 4px rgba(0, 0, 0, 0.04);
 }
 
+.carousel_img--cierre_basico {
+  background-image: url("/images/cierre_basico.png") !important;
+}
+
+.carousel_img--cierre_malla {
+  background-image: url("/images/cierre_malla.png") !important;
+}
+
+.carousel_img--cierre_frontis {
+  background-image: url("/images/cierre_frontis.png") !important;
+}
+
 body {
   padding-top: 54px;
 }
