@@ -1,11 +1,20 @@
 .carousel_img--cierre_basico{
-    background-image: url('/images/cierre_basico.png') !important;
+    /* background-image: url('/images/cierre_basico.png') !important; */
+    @include  imageGradientOverlay('/images/cierre_basico.png', $primary-green)
 }
 
 .carousel_img--cierre_malla{
-    background-image: url('/images/cierre_malla.png') !important;
+    /* background-image: url('/images/cierre_malla.png') !important; */
+    @include  imageGradientOverlay('/images/cierre_malla.png', $primary-green)
 }
 
 .carousel_img--cierre_frontis{
-    background-image: url('/images/cierre_frontis.png') !important;
+    @include  imageGradientOverlay('/images/cierre_frontis.png', $primary-green)
+    /* background-image: url('/images/cierre_frontis.png') !important; */
 }
+
+.carousel_img--cristian_front{
+    /* background-image: url('/images/cristian.png') !important; */
+    @include  imageGradientOverlay('/images/cristian.png', $primary-green)
+}
+
