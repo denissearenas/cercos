@@ -11,39 +11,17 @@
                             Productos
                         </a>
                         <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdownProducts">
-                            <a class="dropdown-item" href="cierres_todos.html">Todos</a>
-                            <a class="dropdown-item" href="cierre_basico.html">Cierre Básico</a>
-                            <a class="dropdown-item" href="cirre_malla.html">Cierre Malla</a>
-                            <a class="dropdown-item" href="cierre_frontis.html">Cierre Frontis</a>
+                            <a class="dropdown-item" href="/productos">Todos</a>
+                            <a class="dropdown-item" href="/cierre_basico">Cierre Básico</a>
+                            <a class="dropdown-item" href="/cierre_malla">Cierre Malla</a>
+                            <a class="dropdown-item" href="/cierre_frontis">Cierre Frontis</a>
                         </div>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="about.html">Acerca De</a>
+                        <a class="nav-link" href="/acerca_de">Acerca De</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="contact.html">Contacto</a>
-                    </li>
-                    <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownBlog" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                            Blog
-                        </a>
-                        <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdownBlog">
-                            <a class="dropdown-item" href="blog-home-1.html">Blog Home 1</a>
-                            <a class="dropdown-item" href="blog-home-2.html">Blog Home 2</a>
-                            <a class="dropdown-item" href="blog-post.html">Blog Post</a>
-                        </div>
-                    </li>
-                    <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownBlog" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                            Other Pages
-                        </a>
-                        <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdownBlog">
-                            <a class="dropdown-item" href="full-width.html">Full Width Page</a>
-                            <a class="dropdown-item" href="sidebar.html">Sidebar Page</a>
-                            <a class="dropdown-item" href="faq.html">FAQ</a>
-                            <a class="dropdown-item" href="404.html">404</a>
-                            <a class="dropdown-item" href="pricing.html">Pricing Table</a>
-                        </div>
+                        <a class="nav-link" href="/contacto">Contacto</a>
                     </li>
                 </ul>
             </div>
