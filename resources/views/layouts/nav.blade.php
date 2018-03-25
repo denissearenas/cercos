@@ -6,26 +6,22 @@
             </button>
             <div class="collapse navbar-collapse" id="navbarResponsive">
                 <ul class="navbar-nav ml-auto">
-                    <li class="nav-item">
-                        <a class="nav-link" href="about.html">About</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="services.html">Services</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="contact.html">Contact</a>
-                    </li>
                     <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownPortfolio" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                            Portfolio
+                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownProducts" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            Productos
                         </a>
-                        <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdownPortfolio">
-                            <a class="dropdown-item" href="portfolio-1-col.html">1 Column Portfolio</a>
-                            <a class="dropdown-item" href="portfolio-2-col.html">2 Column Portfolio</a>
-                            <a class="dropdown-item" href="portfolio-3-col.html">3 Column Portfolio</a>
-                            <a class="dropdown-item" href="portfolio-4-col.html">4 Column Portfolio</a>
-                            <a class="dropdown-item" href="portfolio-item.html">Single Portfolio Item</a>
+                        <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdownProducts">
+                            <a class="dropdown-item" href="cierres_todos.html">Todos</a>
+                            <a class="dropdown-item" href="cierre_basico.html">Cierre Básico</a>
+                            <a class="dropdown-item" href="cirre_malla.html">Cierre Malla</a>
+                            <a class="dropdown-item" href="cierre_frontis.html">Cierre Frontis</a>
                         </div>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="about.html">Acerca De</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="contact.html">Contacto</a>
                     </li>
                     <li class="nav-item dropdown">
                         <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownBlog" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
