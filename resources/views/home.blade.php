@@ -1,5 +1,9 @@
 @extends('layout')
 
+@section('title')
+    Cercos Los Lagos
+@endsection
+
 @section('content')
 
     @include('layouts.carousel')

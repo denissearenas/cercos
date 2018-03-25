@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="{{ app()->getLocale() }}">
 <head>
     <link href="css/app.css" rel="stylesheet">
     <script src="js/app.js"></script>
